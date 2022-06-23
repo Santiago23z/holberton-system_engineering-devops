@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+numero=1
+
+while [ $numero -le 10 ]
+do
+    echo "Best School"
+    ((numero++))
+done
